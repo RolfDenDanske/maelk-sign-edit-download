@@ -1,8 +1,14 @@
+<p align="center">
+  <img src="images/maelk-sign-edit-banner.png" alt="MÆLK Sign Edit — Kopiér. Indsæt. Gem dine skilte." width="100%">
+</p>
+
 # 🥛 MÆLK Sign Edit
 
 **Copy, Paste og gemte skilte direkte i Minecrafts skilte-editor.**
 
 Minecraft Java **26.3** · **Fabric** · Kun på klienten
+
+*Banneret er en illustration af moddet, ikke et skærmbillede fra spillet.*
 
 **Nyt i 1.1.2:** Kulgråt design med afrundede flader og bløde skygger. Gemte skilte vises som små træskilte med centreret tekst — uden stang. Listen tilpasser højden til indholdet, og gemmeknappen er det valgte diskettebillede med transparent baggrund uden kant, ramme eller knapbaggrund.
 
