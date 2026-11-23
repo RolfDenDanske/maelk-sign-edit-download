@@ -1,4 +1,4 @@
-MÆLK SIGN EDIT 1.0.0
+MÆLK SIGN EDIT 1.1.0
 Minecraft Java 26.3 / Fabric
 
 KRÆVER
@@ -8,7 +8,7 @@ KRÆVER
 
 INSTALLATION
 1. Luk eller genstart Minecraft, når JAR-filen er lagt ind.
-2. Læg maelk-sign-edit-1.0.0.jar i Fabric-profilens mods-mappe.
+2. Læg maelk-sign-edit-1.1.0.jar i Fabric-profilens mods-mappe.
 3. Behold Fabric API i samme mods-mappe.
 4. Start Fabric-profilen og åbn et skilt på normal vis.
 
@@ -38,6 +38,6 @@ Moddet virker på almindelige skilte og hængeskilte.
 Download og hjælp:
 https://github.com/RolfDenDanske/maelk-sign-edit-download
 
-20 automatiske tests er bestået. Visningen og serverintegrationen
+24 automatiske tests er bestået. Visningen og serverintegrationen
 skal stadig afprøves i spillet. Serverens normale regler for
 redigering af skilte gælder fortsat.
