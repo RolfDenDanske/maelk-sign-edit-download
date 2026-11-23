@@ -4,7 +4,7 @@
 
 Minecraft Java **26.3** · **Fabric** · Kun på klienten
 
-**Nyt i 1.1.1:** Kulgråt design med afrundede flader og bløde skygger. Gemte skilte vises som små træskilte med centreret tekst — uden stang. Listen tilpasser højden til indholdet, og gemmeknappen er en mørk ikonknap med en meget tynd pink/orange/lilla kant og et hvidt disketteikon uden tekst.
+**Nyt i 1.1.2:** Kulgråt design med afrundede flader og bløde skygger. Gemte skilte vises som små træskilte med centreret tekst — uden stang. Listen tilpasser højden til indholdet, og gemmeknappen er det valgte diskettebillede med transparent baggrund uden kant, ramme eller knapbaggrund.
 
 ### [📥 Download seneste version](https://github.com/RolfDenDanske/maelk-sign-edit-download/releases/latest)
 
@@ -26,7 +26,7 @@ Kræver **Minecraft Java 26.3**, **Fabric Loader 0.20.1 eller nyere** og **Fabri
 
 1. Installer [Fabric til Minecraft 26.3](https://fabricmc.net/use/installer/).
 2. Hent [Fabric API til 26.3](https://modrinth.com/mod/fabric-api/versions?g=26.3&l=fabric).
-3. Hent **`maelk-sign-edit-1.1.1.jar`** under Assets på [downloadsiden](https://github.com/RolfDenDanske/maelk-sign-edit-download/releases/latest).
+3. Hent **`maelk-sign-edit-1.1.2.jar`** under Assets på [downloadsiden](https://github.com/RolfDenDanske/maelk-sign-edit-download/releases/latest).
 4. Læg moddet og Fabric API i Fabric-profilens `mods`-mappe.
 5. Genstart Minecraft, og åbn et skilt på normal vis.
 
@@ -44,7 +44,7 @@ Ved Paste bruges de første fire linjer fra udklipsholderen. Hvis en linje er fo
 
 [Opret en fejlrapport](https://github.com/RolfDenDanske/maelk-sign-edit-download/issues/new) med Minecraft-version, modversion og en beskrivelse af fejlen. Tilføj gerne et billede af editoren uden private oplysninger.
 
-Version **1.1.1** er bygget og har bestået **24 automatiske tests** for tekst, Unicode, gemning, layout og integrationens Minecraft-metoder. Visningen og serverintegrationen skal stadig afprøves i spillet.
+Version **1.1.2** er bygget og har bestået **25 automatiske tests** for tekst, Unicode, gemning, layout og integrationens Minecraft-metoder. Visningen og serverintegrationen skal stadig afprøves i spillet.
 
 ## Downloadsiden
 
